@@ -56,7 +56,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - TensorFlow documentation and tutorials
 - Contributors to the TensorFlow ecosystem
-
-## Contact
-
-For any questions or feedback, please open an issue in this repository or contact [Muhammed Fawzan A](mailto:fawzanoachira@gmail.com).
