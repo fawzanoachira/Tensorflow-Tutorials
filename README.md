@@ -33,3 +33,30 @@ source .venv/bin/activate
 ```bash
 pip install tensorflow
 ```
+## Usage
+
+Each tutorial is contained in its own directory with a Jupyter notebook (.ipynb) file.
+
+To run a tutorial:
+
+1. Navigate to the tutorial's directory
+2. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+3. Open the .ipynb file in your browser
+
+Alternatively, you can use Google Colab to run these tutorials in the cloud.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Acknowledgments
+
+- TensorFlow documentation and tutorials
+- Contributors to the TensorFlow ecosystem
+
+## Contact
+
+For any questions or feedback, please open an issue in this repository or contact [Muhammed Fawzan A](mailto:fawzanoachira@gmail.com).
